@@ -36,11 +36,14 @@ readTextFile("/publicacion/publicaciones.json", function (text) {
 
     data.forEach(element => {
         contenedorPublicaciones.innerHTML = `
-                    <div onClick="gotopub(${element.id})">
-                        <img src="./img/${element.img}" alt="">
-                        <h3> ${element.titulo}</h3>
+                    
+                    <div onClick="gotopub(${element.id})" class="card">
+                        <img src="/img/${element.img}" alt="">
+                        <em class="date">4 days ago</em>
+                        <h2 class="title"> ${element.titulo}</h2>
                         <p>${element.descripcion}</p>
-                    </div>`+ contenedorPublicaciones.innerHTML;
+                    </div>
+                    `+ contenedorPublicaciones.innerHTML;
         
     });
 });

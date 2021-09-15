@@ -1,6 +1,8 @@
 
 em{
     font-size: 13px;
+    position: relative;
+    float: right;
 }
 div{
     padding: 0px 15px;
@@ -14,12 +16,16 @@ img{
     display: block;
     margin-left: auto;
     margin-right: auto;
-    width: max-content;
+    width: 230px;
+}
+#publicacion{
+    padding: 10px 50px;
 }
 #descripcion{
     padding-bottom: 50px;
     text-align: center;
     font-style: italic;
+    
 }
 #fecha{
     padding-top: 10px;

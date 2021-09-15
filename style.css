@@ -3,13 +3,14 @@
 }
 
 section{
-  padding: 0px 10px;
+  padding: 0 10px;
+  padding-bottom: 100px;
 }
 
 .banner{
   width: 100%;
   background-image: url("/img/banner.jpg");
-  height: 405px;
+  height: 305px;
   background-color: rgb(236, 201, 0);
   background-position: center;
   display: flex;
@@ -17,7 +18,7 @@ section{
   align-items: center;
 }
 
-.banner p{
+.banner h1{
   font-size: 70px;
   font-weight: 600;
   text-align: center;  
@@ -25,35 +26,49 @@ section{
   
 }
 
-.container{
+.title {
+  padding-top: 10px;
+  text-align: center;
+  font-size: 30px;
+  color: black;
+  margin-top: 10px;
+  font-weight:400;
+}
+
+.container {
+  width: 100%;
+  max-width: 1200px;
+  height: 430px;
   display: flex;
   flex-wrap: wrap;
-  justify-content: space-around;
-  padding: 5px;
-  align-items: stretch;
-  
+  justify-content: center;
+  margin: auto;
 }
-.container div{ 
-  background-color: white;
-  width: 400px;
-  height: 400px;
-  margin: 5px;
+
+.container .card {
+  padding: 0 10px;
+  width: 330px;
+  height: 430px;
+  border-radius: 8px;
+  box-shadow: 0 2px 2px rgba(0, 0, 0, 0.5);
+  overflow: hidden;
+  margin: 20px;
   text-align: center;
-  line-height: 75px;
-  font-size: 30px;
-  border: 1px solid black;
 }
-.container img{
-  width: 200px;
+
+.container .card img {
+  width: 330px;
   height: 200px;
 }
 
-.container p{
-  font-size: 15px;
+.date {
+  font-size: 13px;
+  position: static;
+  float: right;
 }
 
 .descripcion{
-  font-size: 25px;
+  font-size: 20px;
   padding: 10px;
 }
 
@@ -61,12 +76,12 @@ section{
   position:fixed;
   left: 0;
   bottom: 0;
-  height: 40px;
+  height: 30px;
   width: 100%;
   background-color: rgb(236, 201, 0);
   color: rgb(0, 0, 0);
   text-align: center;
-  font-size: 25px;
+  font-size: 20px;
 }
 
 .video{
@@ -106,73 +121,10 @@ section{
 }
 
 @media (max-width: 800px) {
-  .descripcion{font-size: 20px;}
-  .footer {
-    height: 30px;
-    font-size: 20px;}
-  .title-publicaciones{
-    font-size: 20px;
-  }
-  h3{
-    font-size: 5px;
-  }
-  .container div{ 
-    width: 300px;
-    height: 300px;
-    margin: 5px;
-    line-height: 60px;
-    font-size: 15px;
-  }
-  .container p{
-    font-size: 15px;
-  }
-  .descripcion{
-    font-size: 20px;
-  }
-  .container img{
-    width: 150px;
-    height: 150px;
-  }
 }
 
 
 @media (max-width: 600px) {
-  .descripcion{font-size: 15px;}
-  .footer {
-    height: 25px;
-    font-size: 15px;}
-  .title-publicaciones{  font-size: 15px;  }
-  .container div{ 
-    width: 200px;
-    height: 200px;
-    margin: 5px;
-    line-height: 50px;
-    font-size: 10px;
-  }
-  .container h3{
-    font-size: 15px;
-    
-  }
-  .container p{
-    font-size: 10px;
-  }
-  .titlePub{
-    font-size: 5px;
-  }
-  .descripcion{
-    font-size: 15px;
-  }
-  .container img{
-    width: 100px;
-    height: 100px;
-  }
   
-  .banner p{
-    font-size: 50px;
-    font-weight: 600;
-    text-align: center;  
-    color: #000000;
-    
-  }
 }
 
