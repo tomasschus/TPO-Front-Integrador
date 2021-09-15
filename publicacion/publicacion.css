@@ -1,0 +1,32 @@
+
+em{
+    font-size: 13px;
+}
+div{
+    padding: 0px 15px;
+}
+h1{
+    padding-top: 40px;
+    text-align: center;
+    font-size: 30px;
+}
+img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: max-content;
+}
+#descripcion{
+    padding-bottom: 50px;
+    text-align: center;
+    font-style: italic;
+}
+#fecha{
+    padding-top: 10px;
+    position: relative;
+    float: right;
+}
+
+@media (max-width: 600px)  {
+    img{width: 50%;}
+}

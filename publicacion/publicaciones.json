@@ -1,0 +1,18 @@
+[
+    {
+        "id":1,
+        "img":"banana.jpg", 
+        "fecha":"27/06/2021", 
+        "titulo":"¿Cuanto potasio aporta una banana?",
+        "descripcion":"breve desc",
+        "contenido":"La banana, conocido también como plátano,2​ guineo maduro, banano, cambur o gualele, es un fruto comestible, de varios tipos de grandes plantas herbáceas del género Musa. \n A estas plantas de gran porte que tienen aspecto de arbolillo se las denomina plataneras, bananeros, bananeras, plátanos o bananos. Es un fruto con cualidades variables en tamaño, color y firmeza, alargado, generalmente curvado y carnoso, rico en almidón cubierto con una cáscara, que puede ser verde, amarilla, roja, púrpura o marrón cuando está madura. Los frutos crecen en piñas que cuelgan de la parte superior de la planta. Casi todos los plátanos en la actualidad son frutos estériles que no producen semillas fructificantes y provienen de dos especies silvestres: Musa acuminata y Musa balbisiana. El nombre científico de la mayoría de los plátanos cultivados es Musa × paradisiaca, el híbrido Musa acuminata × M. balbisiana, con distintas denominaciones var. o cultivares, dependiendo de su constitución genómica."
+    },
+    {
+        "id":2,
+        "img":"naranja.jpg", 
+        "fecha":"27/06/2021", 
+        "titulo":"¿Cuanta vitamina C aporta una naranja?",
+        "descripcion":"breve desc breve desc",
+        "contenido":"La naranja suele ser el alimento más citado, por no decir el único, cuando se hace esta pregunta, pero lo cierto es que con 50 mg de vitamina C por cada 100 gramos no es ni de lejos la fruta que aporta una mayor cantidad de ácido ascórbico."
+    }
+]
