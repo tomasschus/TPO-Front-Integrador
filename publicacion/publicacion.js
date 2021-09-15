@@ -38,10 +38,9 @@ window.onload = readTextFile("publicaciones.json", function (text) {
 
 
 function proximaEntrada(){
-    var prox = idpub - 1
-    alert(prox)
-    if(idpub===0){
+    console.log("cli")
+    if(idpub==1){
         alert("Esta es la ultima entrada")
     }
-    else{window.location.href  = ('/publicacion/publicacion.html?'+prox)}
+    else{window.location.href  = ('/publicacion/publicacion.html?'+(idpub-1))}
 }
