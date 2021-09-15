@@ -44,6 +44,9 @@ img{
     padding: 10px 50px;
 }
 @media (max-width: 600px)  {
-    img{width: 50%;}
+    #publicacion{
+        padding: 10px 10px;
+    }
+    
 }
 

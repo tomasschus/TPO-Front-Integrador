@@ -48,13 +48,8 @@ readTextFile("/publicacion/publicaciones.json", function (text) {
 });
 
 
-
 function gotopub(numero){
     window.location.href  = ('/publicacion/publicacion.html?'+numero)
 }
-/*var publicacion = document.getElementById("goto");
-publicacion.addEventListener("click", (e)=>{
-    console.log("click goto")
-    var link = '/publicacion/publicacion.html'+'?producto=camiseta&color=azul&talla=s'
-    window.location.pathname = (link)
-})*/
+
+
