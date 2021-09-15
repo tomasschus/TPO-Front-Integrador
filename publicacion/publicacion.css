@@ -18,8 +18,8 @@ img{
     margin-right: auto;
     width: 230px;
 }
-#publicacion{
-    padding: 10px 50px;
+.banner{
+    height: 205px;
 }
 #descripcion{
     padding-bottom: 50px;
@@ -32,7 +32,18 @@ img{
     position: relative;
     float: right;
 }
-
+#next{
+    position: fixed;
+    right: 0;
+    font-size: large;
+    font-weight: 600;
+    color: white;
+    background-color: #56833c;
+}
+#publicacion{
+    padding: 10px 50px;
+}
 @media (max-width: 600px)  {
     img{width: 50%;}
 }
+

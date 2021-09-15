@@ -39,14 +39,15 @@ readTextFile("/publicacion/publicaciones.json", function (text) {
                     
                     <div onClick="gotopub(${element.id})" class="card">
                         <img src="/img/${element.img}" alt="">
-                        <em class="date">4 days ago</em>
+                        <em class="date">Publicado el ${element.fecha}</em>
                         <h2 class="title"> ${element.titulo}</h2>
                         <p>${element.descripcion}</p>
                     </div>
                     `+ contenedorPublicaciones.innerHTML;
-        
     });
 });
+
+
 
 function gotopub(numero){
     window.location.href  = ('/publicacion/publicacion.html?'+numero)
