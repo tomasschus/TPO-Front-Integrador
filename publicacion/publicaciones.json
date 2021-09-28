@@ -14,5 +14,29 @@
         "titulo":"¿Cuanta vitamina C aporta una naranja?",
         "descripcion":"breve desc breve desc",
         "contenido":"La naranja suele ser el alimento más citado, por no decir el único, cuando se hace esta pregunta, pero lo cierto es que con 50 mg de vitamina C por cada 100 gramos no es ni de lejos la fruta que aporta una mayor cantidad de ácido ascórbico."
+    },
+    {
+        "id":2,
+        "img":"naranja.jpg", 
+        "fecha":"27/06/2021", 
+        "titulo":"¿Cuanta vitamina C aporta una naranja?",
+        "descripcion":"breve desc breve desc",
+        "contenido":"La naranja suele ser el alimento más citado, por no decir el único, cuando se hace esta pregunta, pero lo cierto es que con 50 mg de vitamina C por cada 100 gramos no es ni de lejos la fruta que aporta una mayor cantidad de ácido ascórbico."
+    },
+    {
+        "id":2,
+        "img":"naranja.jpg", 
+        "fecha":"27/06/2021", 
+        "titulo":"¿Cuanta vitamina C aporta una naranja?",
+        "descripcion":"breve desc breve desc",
+        "contenido":"La naranja suele ser el alimento más citado, por no decir el único, cuando se hace esta pregunta, pero lo cierto es que con 50 mg de vitamina C por cada 100 gramos no es ni de lejos la fruta que aporta una mayor cantidad de ácido ascórbico."
+    },
+    {
+        "id":2,
+        "img":"naranja.jpg", 
+        "fecha":"27/06/2021", 
+        "titulo":"¿Cuanta vitamina C aporta una naranja?",
+        "descripcion":"breve desc breve desc",
+        "contenido":"La naranja suele ser el alimento más citado, por no decir el único, cuando se hace esta pregunta, pero lo cierto es que con 50 mg de vitamina C por cada 100 gramos no es ni de lejos la fruta que aporta una mayor cantidad de ácido ascórbico."
     }
 ]
