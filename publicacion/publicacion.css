@@ -16,7 +16,7 @@ img{
     display: block;
     margin-left: auto;
     margin-right: auto;
-    width: 230px;
+    width: 930px;
 }
 .banner{
     height: 205px;
@@ -43,10 +43,17 @@ img{
 #publicacion{
     padding: 10px 50px;
 }
-@media (max-width: 600px)  {
+@media (max-width: 800px)  {
     #publicacion{
         padding: 10px 10px;
     }
+    img{
+        width: 500px;
+    }
     
 }
-
+@media (max-width: 400px)  {
+    img{
+        width: 300px;
+    }
+}

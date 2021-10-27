@@ -4,7 +4,7 @@
         "img":"naranja.jpg", 
         "fecha":"27/06/2021", 
         "titulo":"¿Cuanta vitamina C aporta una naranja?",
-        "descripcion":"breve desc breve desc",
+        "descripcion":"",
         "contenido":"La naranja suele ser el alimento más citado, por no decir el único, cuando se hace esta pregunta, pero lo cierto es que con 50 mg de vitamina C por cada 100 gramos no es ni de lejos la fruta que aporta una mayor cantidad de ácido ascórbico."
     },
     {
@@ -12,7 +12,7 @@
         "img":"cacao.jpg", 
         "fecha":"01/07/2021", 
         "titulo":"¿Qué aporta el cacao como alimento?",
-        "descripcion":"<br/>",
+        "descripcion":"",
         "contenido":"El cacao (que no es lo mismo que el chocolate) aporta minerales como el magnesio, cobre, potasio y hierro. Tiene un gran poder antioxidante, lo que retrasa el envejecimiento celular; es antiinflamatorio y ayuda a controlar los niveles de presión arterial. También aporta fibra y grasas monoinsaturadas (de buena calidad)."
     },
     {
@@ -20,7 +20,7 @@
         "img":"frutos-secos.jpg", 
         "fecha":"09/07/2021", 
         "titulo":"Beneficios de comer frutos secos",
-        "descripcion":"Conoce porque deberías consumirlos habitualmente",
+        "descripcion":"",
         "contenido":"Los frutos secos son una fuente excelente de ácidos grasos esenciales, que ayudan a mejorar la salud cardiovascular. En este grupo se incluyen a las almendras, nueces, avellanas, castañas de cajú, maní y pistacho. Tienen un gran valor nutricional y dependiendo del que elijamos consumir nos aportan omega 9, omega 6, calcio, zinc, hierro y vitaminas del complejo B."
     },
     {
@@ -28,7 +28,7 @@
         "img":"huevo.jpg", 
         "fecha":"15/07/2021", 
         "titulo":"Incluye el huevo en tu día a día",
-        "descripcion":"No es todo tal cual te cuentan",
+        "descripcion":"",
         "contenido":"Un huevo entero pesa aproximadamente 50g, nos aporta 6g de proteínas (gracias a sus aminoácidos esenciales) y 5g de grasas de excelente calidad; estos nutrientes nos brindan saciedad por más tiempo y además este alimento de alto valor biológico nos aporta vitaminas como A, B12 y D. Durante mucho tiempo se lo catalogó (y sobre todo a la yema) como no recomendable por su alto contenido de colesterol. Si bien es cierto que tiene colesterol, nos referimos al HDL o “bueno”, que ayuda a disminuir el colesterol total gracias a su contenido en grasas mono y poliinsaturadas."
     },
     {
@@ -36,7 +36,7 @@
         "img":"palta.jpg", 
         "fecha":"27/06/2021", 
         "titulo":"Un super alimento",
-        "descripcion":"La palta, mas conocida como oro verde.",
+        "descripcion":"",
         "contenido":"La palta aporta gran variedad de vitaminas y minerales como potasio, magnesio y vitamina B. Aporta grasas monoinsaturadas y fibra lo que significa que nos ayuda a bajar el colesterol, además de brindar gran saciedad. 100g de este alimento (aproximadamente media unidad) cubre el 20% del requerimiento diario de ácido fólico y de vitamina K y aporta 2g de proteína."
     },
     {
@@ -44,7 +44,7 @@
         "img":"pan-de-centeno.jpeg", 
         "fecha":"27/06/2021", 
         "titulo":"Pan de centeno: un pan saludable",
-        "descripcion":"¿Quien dijo que comer pan era malo?",
+        "descripcion":"",
         "contenido":"El pan de centeno se elabora con el grano entero del centeno, por lo tanto incluirá fibra, importante para regular el tránsito intestinal y haciéndolo de lenta absorción. Esto último también ayuda a mantener niveles de glucosa en sangre bajos. Aporta hierro, calcio, zinc, selenio y vitaminas del complejo B."
     },
     {
@@ -52,15 +52,15 @@
         "img":"esparragos.jpeg", 
         "fecha":"27/06/2021", 
         "titulo":"Esparragos",
-        "descripcion":"(Aportan más de lo que pensas)",
+        "descripcion":"",
         "contenido":"Los espárragos contienen fibra, lo que colabora con la regulación del tracto gastrointestinal y contribuyen a disminuir el colesterol. Son excelentes antioxidantes y son fuente de vitaminas como B9, C, A, E y K."
     },
     {
         "id":7,
         "img":"naranja.jpg", 
         "fecha":"27/06/2021", 
-        "titulo":"Avena: increible fuente de proteínas",
-        "descripcion":"<br/>",
+        "titulo":"Avena",
+        "descripcion":"",
         "contenido":"La avena es un alimento súper rico en fibra: contiene 11g de esta última cada 100g. Posee carbohidratos de lenta absorción lo que nos dará saciedad por más tiempo, sumado a los beneficios que brinda la fibra por nombrar algunos: reducir el colesterol LDL y mantener niveles de glucosa en sangre estables. La avena es un cereal completo por estos motivos y también por su contenido en grasas saludables y proteínas."
     }
 ]
