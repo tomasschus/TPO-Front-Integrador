@@ -43,7 +43,7 @@ img{
 #publicacion{
     padding: 10px 50px;
 }
-@media (max-width: 800px)  {
+@media (max-width: 1000px)  {
     #publicacion{
         padding: 10px 10px;
     }
@@ -52,7 +52,7 @@ img{
     }
     
 }
-@media (max-width: 400px)  {
+@media (max-width: 600px)  {
     img{
         width: 300px;
     }
