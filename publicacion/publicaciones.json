@@ -35,7 +35,7 @@
         "id":5,
         "img":"palta.jpg", 
         "fecha":"27/06/2021", 
-        "titulo":"Un super alimento",
+        "titulo":"La palta es un super alimento ",
         "descripcion":"",
         "contenido":"La palta aporta gran variedad de vitaminas y minerales como potasio, magnesio y vitamina B. Aporta grasas monoinsaturadas y fibra lo que significa que nos ayuda a bajar el colesterol, además de brindar gran saciedad. 100g de este alimento (aproximadamente media unidad) cubre el 20% del requerimiento diario de ácido fólico y de vitamina K y aporta 2g de proteína."
     },
@@ -43,7 +43,7 @@
         "id":6,
         "img":"pan-de-centeno.jpeg", 
         "fecha":"27/06/2021", 
-        "titulo":"Pan de centeno: un pan saludable",
+        "titulo":"Pan de centeno, un pan saludable",
         "descripcion":"",
         "contenido":"El pan de centeno se elabora con el grano entero del centeno, por lo tanto incluirá fibra, importante para regular el tránsito intestinal y haciéndolo de lenta absorción. Esto último también ayuda a mantener niveles de glucosa en sangre bajos. Aporta hierro, calcio, zinc, selenio y vitaminas del complejo B."
     },
@@ -51,15 +51,15 @@
         "id":6,
         "img":"esparragos.jpeg", 
         "fecha":"27/06/2021", 
-        "titulo":"Esparragos",
+        "titulo":"Esparragos un aliado en la antioxidación celular",
         "descripcion":"",
         "contenido":"Los espárragos contienen fibra, lo que colabora con la regulación del tracto gastrointestinal y contribuyen a disminuir el colesterol. Son excelentes antioxidantes y son fuente de vitaminas como B9, C, A, E y K."
     },
     {
         "id":7,
-        "img":"naranja.jpg", 
+        "img":"avena.jpg", 
         "fecha":"27/06/2021", 
-        "titulo":"Avena",
+        "titulo":"La avena, un súper cereal",
         "descripcion":"",
         "contenido":"La avena es un alimento súper rico en fibra: contiene 11g de esta última cada 100g. Posee carbohidratos de lenta absorción lo que nos dará saciedad por más tiempo, sumado a los beneficios que brinda la fibra por nombrar algunos: reducir el colesterol LDL y mantener niveles de glucosa en sangre estables. La avena es un cereal completo por estos motivos y también por su contenido en grasas saludables y proteínas."
     }
